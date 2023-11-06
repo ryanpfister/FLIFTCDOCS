@@ -1,4 +1,4 @@
-* [Scorekeepr Github](https://github.com/FIRST-Tech-Challenge/scorekeeper)
+* [Scorekeeper Github](https://github.com/FIRST-Tech-Challenge/scorekeeper)
 * [FTC-Scoring](https://ftc-scoring.firstinspires.org/)
 * [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
