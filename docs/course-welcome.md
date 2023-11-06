@@ -1,11 +1,8 @@
 ![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
 
-# Welcome to CPT-363 User Interface Design 👋🏼  
+# Welcome to the FIRST Long Island - FTC Setup Docs
 
- To help orientate yourself to the course, explore the [course syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus). You may also want to view a brief tour of [Blackboard Collaborate Ultra](https://www.youtube.com/watch?v=1W4sGpVmJaY).
+ You can use this doccumentation to help setup a FTC event with FIRST Long Island. This doccuemntation should be used by the lead scorekeeper, technical crew, and load-in crew.
 
-Is this your first online course? If so, you might find these articles of help:
-
-* [8 Strategies for Getting the Most Out of an Online Class](https://www.northeastern.edu/graduate/blog/tips-for-taking-online-classes/)
-* [What Makes a Successful Online Learner?](https://careerwise.minnstate.edu/education/successonline.html)
-* [Student toolkit to help tackle remote learning](https://socialmediaforlearning.com/2020/03/22/guest-post-a-student-toolkit-to-help-you-tackle-remote-learning-written-by-students-for-students/)
+If you have any questions, please be sure to ask someone in a senior position. We would rather do something once, then have to do it again!
+It is suggested that you do all steps in the order provided, but you may go out of order if you know what you are doing.
