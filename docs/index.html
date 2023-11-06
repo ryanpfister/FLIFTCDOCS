@@ -105,7 +105,7 @@
     var standalone = false;
 
     // Set ToC to true to permanently show page Table of Contents (Sidebar and Navbar must also be hidden)
-    var ToC = false;
+    var ToC = true;
 
     // Set navbar to true to permanently override the hiding of the Navbar when displaying as standalone
     var navbar = false;
@@ -177,10 +177,6 @@
         nextText: 'NEXT',
         crossChapter: false,
         crossChapterText: false,
-      },
-      'page-toc': {
-        tocMaxLevel: 3,
-        target: 'h1, h2, h3'
       },
 
 
@@ -379,8 +375,7 @@
   <!-- Pagination Plugin -->
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
-  <!-- Table of Contents Plugin -->
-  <script src="//unpkg.com/docsify-page-toc/dist/docsify-page-toc.js"></script>
+  
 
   <script>
     if (getURLParameterByName('toc') || ToC) {
