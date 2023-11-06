@@ -157,10 +157,10 @@
       // -----------------------------------------------------------------
       name: 'FIRST Long Island - FTC Technical Docs',
       homepage: 'home.md',
-      loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
-      loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || false),
+      loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || true),
+      loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar || true),
       externalLinkTarget: (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
-      loadFooter: (getURLParameterByName('footer') || footer || false),
+      loadFooter: (getURLParameterByName('footer') || footer || true),
 
       // SIDEBAR NAVIGATION
       // -----------------------------------------------------------------
